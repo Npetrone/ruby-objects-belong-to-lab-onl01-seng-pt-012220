@@ -5,9 +5,5 @@ class Artist
     @name = name
   end
   
-  def artist_name
-    @name
-  end
-  
   
 end
